@@ -1,4 +1,4 @@
-## sblzdddd
+## Donovan Li
 
 <!-- github-stats:start -->
 <!-- prettier-ignore-start -->
@@ -8,7 +8,7 @@
 <!-- prettier-ignore-end -->
 <!-- github-stats:end -->
 
-铸币学生，喜欢写构式，高强度摸鱼中
+高强度摸鱼中
 
 I Just Made Something i've been interested in.
 
