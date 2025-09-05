@@ -1,4 +1,4 @@
-## Donovan Li
+## Donovan
 
 <!-- github-stats:start -->
 <!-- prettier-ignore-start -->
