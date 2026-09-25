@@ -10,4 +10,4 @@
 
 高强度摸鱼中
 
-I Just Made Something i've been interested in.
+I just make something i've been interested in.
