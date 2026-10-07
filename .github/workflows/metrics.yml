@@ -16,8 +16,7 @@ jobs:
         with:
           filename: assets/account.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          user: sblzdddd
-          base: header
+          base: header, repositories
       - name: Languages
         uses: lowlighter/metrics@latest
         with:
