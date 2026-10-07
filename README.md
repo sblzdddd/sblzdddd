@@ -35,7 +35,7 @@
     <td align="left" valign="middle">
       <img src="./assets/underwear.gif" width="88" height="31" alt="">
       <br>
-      <img src="./assets/languages.svg" alt="Most used and recently used languages">
+      <img src="./assets/languages.svg" alt="Most used languages">
     </td>
   </tr>
   <tr>
