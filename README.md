@@ -1,24 +1,34 @@
 <div align="right">
-  <img src="./assets/xp.gif" width="88" height="31" alt="">
-  <img src="./assets/xp.gif" width="88" height="31" alt="">
-  <img src="./assets/xp.gif" width="88" height="31" alt="">
-  <img src="./assets/xp.gif" width="88" height="31" alt="">
+  <img src="./assets/xp.gif" width="0.65" height="31" alt="">
+  <img src="./assets/xp.gif" width="1.375" height="31" alt="">
+  <img src="./assets/xp.gif" width="2.75" height="31" alt="">
+  <img src="./assets/xp.gif" width="5.5" height="31" alt="">
+  <img src="./assets/xp.gif" width="11" height="31" alt="">
+  <img src="./assets/xp.gif" width="22" height="31" alt="">
+  <img src="./assets/xp.gif" width="44" height="31" alt="">
   <img src="./assets/xp.gif" width="88" height="31" alt="">
 </div>
 
 <table align="right">
   <tr>
     <td align="center" valign="middle">
-      <img src="./assets/Chen_rotating.svg" width="130" alt="">
+      <img src="./assets/Chen_rotating.svg" width="1" alt="">
+      <img src="./assets/Chen_rotating.svg" width="1" alt="">
+      <img src="./assets/Chen_rotating.svg" width="2" alt="">
+      <img src="./assets/Chen_rotating.svg" width="3" alt="">
+      <img src="./assets/Chen_rotating.svg" width="5" alt="">
+      <img src="./assets/Chen_rotating.svg" width="8" alt="">
+      <img src="./assets/Chen_rotating.svg" width="13" alt="">
+      <img src="./assets/Chen_rotating.svg" width="21" alt="">
+      <img src="./assets/Chen_rotating.svg" width="34" alt="">
+      <img src="./assets/Chen_rotating.svg" width="55" alt="">
+      <img src="./assets/Chen_rotating.svg" width="89" alt="">
       <img src="./assets/Chen_rotating.svg" width="100" alt="">
-      <img src="./assets/Chen_rotating.svg" width="70" alt="">
-      <img src="./assets/Chen_rotating.svg" width="40" alt="">
-      <img src="./assets/Chen_rotating.svg" width="20" alt="">
     </td>
     <td align="right" valign="middle">
       <img src="./assets/Tokyo_Fuji_3468_notepad.gif" width="88" height="31" alt="">
       <br>
-      &nbsp;&nbsp;&nbsp;&nbsp;
+      <br>
       <img src="./assets/sdf.gif" width="88" height="31" alt="">
     </td>
   </tr>
@@ -45,7 +55,7 @@
       &nbsp;
       <img src="./assets/Chen.svg" width="32" alt="">
       &nbsp;
-      <img src="./assets/Chen.svg" width="16" alt="">
+      <img width="16" height="16" alt="舔" src="https://github.com/user-attachments/assets/c585cdc0-f788-4872-87f2-ebdfa4c4974d" />
       &nbsp;
       <img src="./assets/Chen.svg" width="8" alt="">
       &nbsp;
@@ -54,6 +64,7 @@
       <img src="./assets/Chen.svg" width="2" alt="">
       &nbsp;
       <img src="./assets/Chen.svg" width="1" alt="">
+      &nbsp;
     </td>
   </tr>
 </table>
