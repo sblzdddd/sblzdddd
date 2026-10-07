@@ -1,8 +1,4 @@
 <div align="right">
-  <img src="./assets/xp.gif" width="0.65" height="31" alt="">
-  <img src="./assets/xp.gif" width="1.375" height="31" alt="">
-  <img src="./assets/xp.gif" width="2.75" height="31" alt="">
-  <img src="./assets/xp.gif" width="5.5" height="31" alt="">
   <img src="./assets/xp.gif" width="11" height="31" alt="">
   <img src="./assets/xp.gif" width="22" height="31" alt="">
   <img src="./assets/xp.gif" width="44" height="31" alt="">
@@ -25,7 +21,7 @@
       <img src="./assets/Chen_rotating.svg" width="89" alt="">
       <img src="./assets/Chen_rotating.svg" width="100" alt="">
     </td>
-    <td align="right" valign="middle">
+    <td align="middle" valign="middle">
       <img src="./assets/Tokyo_Fuji_3468_notepad.gif" width="88" height="31" alt="">
       <br>
       <br>
@@ -36,8 +32,10 @@
     <td align="center" valign="middle">
       <img src="./assets/Chen_star.svg" width="430" alt="">
     </td>
-    <td align="right" valign="middle">
+    <td align="left" valign="middle">
       <img src="./assets/underwear.gif" width="88" height="31" alt="">
+      <br>
+      <img src="./assets/languages.svg" alt="Most used and recently used languages">
     </td>
   </tr>
   <tr>
