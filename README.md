@@ -23,8 +23,7 @@
     </td>
     <td align="middle" valign="middle">
       <img src="./assets/Tokyo_Fuji_3468_notepad.gif" width="88" height="31" alt="">
-      <br>
-      <br>
+      &nbsp;&nbsp;
       <img src="./assets/sdf.gif" width="88" height="31" alt="">
     </td>
   </tr>
@@ -35,13 +34,15 @@
     <td align="left" valign="middle">
       <img src="./assets/underwear.gif" width="88" height="31" alt="">
       <br>
+      <img src="./assets/account.svg" alt="sblzdddd">
+      <br>
       <img src="./assets/languages.svg" alt="Most used languages">
     </td>
   </tr>
   <tr>
     <td align="center" valign="middle">
       <br>
-      &nbsp;&nbsp;<img src="./assets/knbutton.gif" width="88" height="31" alt=""><br><br>
+      &nbsp;&nbsp;<a href="https://kde.org/" target="_blank"><img src="./assets/knbutton.gif" width="88" height="31" alt=""></a><br><br>
       &nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://vn-horizon.top/" target="_blank"><img src="./assets/vnhorizon.gif" width="88" height="31" alt=""></a><br><br>
       <a href="https://xn--p3t716d.xn--0iv.gay/" target="_blank"><img src="./assets/ylisgay.gif" width="88" height="31" alt=""></a>
