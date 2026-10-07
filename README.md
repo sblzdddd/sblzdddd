@@ -43,8 +43,8 @@
       <br>
       &nbsp;&nbsp;<img src="./assets/knbutton.gif" width="88" height="31" alt=""><br><br>
       &nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="./assets/vnhorizon.gif" width="88" height="31" alt=""><br><br>
-      <img src="./assets/ylisgay.gif" width="88" height="31" alt="">
+      <a href="https://vn-horizon.top/" target="_blank"><img src="./assets/vnhorizon.gif" width="88" height="31" alt=""></a><br><br>
+      <a href="https://xn--p3t716d.xn--0iv.gay/" target="_blank"><img src="./assets/ylisgay.gif" width="88" height="31" alt=""></a>
     </td>
     <td align="right" valign="middle">
       <img src="./assets/Chen.svg" width="130" alt="">
@@ -70,5 +70,5 @@
 <div align="left">
   <img src="./assets/lovepowered.gif" width="88" height="31" alt="">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/badge.png" width="88" height="31" alt="">
+  <a href="https://unixcore.sh/reimu" target="_blank"><img src="./assets/badge.png" width="88" height="31" alt=""></a>
 </div>
