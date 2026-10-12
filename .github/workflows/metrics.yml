@@ -17,6 +17,9 @@ jobs:
           filename: assets/account.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories
+          plugin_lines: yes
+          plugin_lines_sections: base
+          plugin_lines_delay: 30
       - name: Languages
         uses: lowlighter/metrics@latest
         with:
@@ -30,15 +33,3 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
-      - name: Lines
-        uses: lowlighter/metrics@latest
-        with:
-          filename: assets/lines.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: sblzdddd
-          base: ""
-          plugin_lines: yes
-          plugin_lines_sections: repositories, history
-          plugin_lines_repositories_limit: 4
-          plugin_lines_history_limit: 1
-          plugin_lines_delay: 30
