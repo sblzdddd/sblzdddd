@@ -36,6 +36,8 @@
       <br>
       <img src="./assets/account.svg" alt="sblzdddd">
       <br>
+      <img src="./assets/lines.svg" alt="Lines of code changed">
+      <br>
       <img src="./assets/languages.svg" alt="Most used languages">
     </td>
   </tr>
