@@ -16,10 +16,9 @@
 <table align="right">
   <tr>
     <td align="center" valign="middle">
-      <img src="./assets/Chen_star.svg" width="320" alt=""><br>
-      <kbd>cats in a box</kbd>
+      <img src="./assets/Chen_star.svg" width="320" alt="">
     </td>
-    <td align="left" valign="middle">
+    <td align="center" valign="middle">
       <img src="./assets/Chen_rotating.svg" width="1" alt="">
       <img src="./assets/Chen_rotating.svg" width="1" alt="">
       <img src="./assets/Chen_rotating.svg" width="2" alt="">
@@ -31,6 +30,7 @@
       <img src="./assets/Chen_rotating.svg" width="34" alt="">
       <img src="./assets/Chen_rotating.svg" width="55" alt="">
       <img src="./assets/Chen_rotating.svg" width="89" alt="">
+      <img width="89" height="89" alt="舔" src="https://github.com/user-attachments/assets/c585cdc0-f788-4872-87f2-ebdfa4c4974d" />
       <br>
       <br>
       <img src="./assets/Chen.svg" width="130" alt="">
@@ -48,7 +48,8 @@
       <img src="./assets/Chen.svg" width="2" alt="">
       &nbsp;
       <img src="./assets/Chen.svg" width="1" alt="">
-      &nbsp;
+      &nbsp;<br>
+      <kbd>cats in a box</kbd>
       <br>
     </td>
   </tr>
