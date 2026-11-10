@@ -3,15 +3,16 @@
   <img src="./assets/xp.gif" width="22" height="31" alt="">
   <img src="./assets/xp.gif" width="44" height="31" alt="">
   <img src="./assets/xp.gif" width="88" height="31" alt="">
+  <br>
+  <br>
+  <img align="right" width="256" src="./assets/loop_130_179_x4_chr3_alpha.webp">
 </div>
 
-<div>
-<img align="right" src="./assets/loop_130_179_x4_chr3_alpha.webp" alt="sblzdddd">
+
 <div align="left">
-<img src="./assets/account.svg" alt="sblzdddd">
-<br>
-<img src="./assets/languages.svg" alt="Most used languages">
-</div>
+  <img src="./assets/account.svg" alt="sblzdddd">
+  <br>
+  <img src="./assets/languages.svg" alt="Most used languages">
 </div>
 
 
@@ -52,19 +53,22 @@
       <img src="./assets/Chen.svg" width="1" alt="">
       &nbsp;
       <br>
-      <img src="./assets/Tokyo_Fuji_3468_notepad.gif" width="88" height="31" alt="">
-      &nbsp;&nbsp;
-      <img src="./assets/sdf.gif" width="88" height="31" alt="">
     </td>
   </tr>
 </table>
 
-<div align="left">
+<div>
   <img src="./assets/lovepowered.gif" width="88" height="31" alt="">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;
+  <img src="./assets/Tokyo_Fuji_3468_notepad.gif" width="88" height="31" alt="">
+  &nbsp;
+  <img src="./assets/sdf.gif" width="88" height="31" alt="">
+  &nbsp;
   <a href="https://unixcore.sh/reimu" target="_blank"><img src="./assets/badge.png" width="88" height="31" alt=""></a>
-  &nbsp;&nbsp;<a href="https://kde.org/" target="_blank"><img src="./assets/knbutton.gif" width="88" height="31" alt=""></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;
+  <a href="https://kde.org/" target="_blank"><img src="./assets/knbutton.gif" width="88" height="31" alt=""></a>
+  &nbsp;
   <a href="https://vn-horizon.top/" target="_blank"><img src="./assets/vnhorizon.gif" width="88" height="31" alt=""></a>
+  &nbsp;
   <a href="https://xn--p3t716d.xn--0iv.gay/" target="_blank"><img src="./assets/ylisgay.gif" width="88" height="31" alt=""></a>
 </div>
