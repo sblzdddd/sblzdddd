@@ -16,7 +16,7 @@
 <table align="right">
   <tr>
     <td align="center" valign="middle">
-      <img src="./assets/Chen_star.svg" width="430" alt="">
+      <img src="./assets/Chen_star.svg" width="320" alt="">
     </td>
     <td align="left" valign="middle">
       <img src="./assets/Chen_rotating.svg" width="1" alt="">
@@ -28,8 +28,9 @@
       <img src="./assets/Chen_rotating.svg" width="13" alt="">
       <img src="./assets/Chen_rotating.svg" width="21" alt="">
       <img src="./assets/Chen_rotating.svg" width="34" alt="">
-      <img src="./assets/Chen_rotating.svg" width="67" alt="">
+      <img src="./assets/Chen_rotating.svg" width="89" alt="">
       <img src="./assets/Chen_rotating.svg" width="100" alt="">
+      <br>
       <br>
       <img src="./assets/Chen.svg" width="130" alt="">
       &nbsp;
