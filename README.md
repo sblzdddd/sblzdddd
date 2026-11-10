@@ -1,8 +1,4 @@
-<div align="right">
-  <br>
-  <img align="right" width="256" src="./assets/loop_130_179_x4_chr3_alpha.webp">
-</div>
-
+<img align="right" width="256" src="./assets/loop_130_179_x4_chr3_alpha.webp">
 
 <div align="left">
   <img src="./assets/xp.gif" width="11" height="31" alt="">
