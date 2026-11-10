@@ -58,16 +58,16 @@
 <div>
   <img src="./assets/lovepowered.gif" width="88" height="31" alt="">
   &nbsp;
+  <img src="./assets/Tokyo_Fuji_3468_notepad.gif" width="88" height="31" alt="">
+  &nbsp;
+  <img src="./assets/sdf.gif" width="88" height="31" alt="">
+  &nbsp; <br><br>
   <a href="https://unixcore.sh/reimu" target="_blank"><img src="./assets/badge.png" width="88" height="31" alt=""></a>
   &nbsp;
   <a href="https://kde.org/" target="_blank"><img src="./assets/knbutton.gif" width="88" height="31" alt=""></a>
-  &nbsp; <br><br>
+  &nbsp;
   <a href="https://vn-horizon.top/" target="_blank"><img src="./assets/vnhorizon.gif" width="88" height="31" alt=""></a>
-  &nbsp;<br>
+  &nbsp;
   <a href="https://xn--p3t716d.xn--0iv.gay/" target="_blank"><img src="./assets/ylisgay.gif" width="88" height="31" alt=""></a>
-  &nbsp;<br>
-  <img src="./assets/Tokyo_Fuji_3468_notepad.gif" width="88" height="31" alt="">
-  &nbsp;<br>
-  <img src="./assets/sdf.gif" width="88" height="31" alt="">
   &nbsp;
 </div>
