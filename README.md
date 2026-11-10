@@ -1,10 +1,10 @@
-<img align="right" width="256" src="./assets/loop_130_179_x4_chr3_alpha.webp">
+<img align="right" width="300" src="./assets/loop_130_179_x4_chr3_alpha.webp">
 
 <div align="left">
-  <img src="./assets/xp.gif" width="11" height="31" alt="">
-  <img src="./assets/xp.gif" width="22" height="31" alt="">
-  <img src="./assets/xp.gif" width="44" height="31" alt="">
   <img src="./assets/xp.gif" width="88" height="31" alt="">
+  <img src="./assets/xp.gif" width="44" height="31" alt="">
+  <img src="./assets/xp.gif" width="22" height="31" alt="">
+  <img src="./assets/xp.gif" width="11" height="31" alt="">
   <br>
   <img src="./assets/account.svg" alt="sblzdddd">
   <br>
